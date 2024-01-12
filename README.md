@@ -6,7 +6,7 @@ I love frameworks but I invest a lot of time in learning the web platform. I spe
 
 - 🌍  I'm based in Huntsville, AL
 - ✉️  You can contact me at [mandrewdarts@gmail.com](mailto:mandrewdarts@gmail.com)
-- 🧠  I'm learning tRPC, Prisma, XState
+- 🧠  I'm learning Go, grpc, Godot, KaboomJS
 - 🤝  I'm open to collaborating on anything web related!
 
 ### Skills
@@ -31,6 +31,7 @@ I love frameworks but I invest a lot of time in learning the web platform. I spe
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 </p>
 
 ### Socials
