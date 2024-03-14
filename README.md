@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer
 
-I love frameworks but I invest a lot of time in learning the web platform. I spend time working with web components, Angular, React and Vue. I also do a bit of backend using NodeJS and PHP. I have been in web development for about 8 years now and am currently working on content to give back to the community.
+I love frameworks but I invest a lot of time in learning the web platform. I spend time working with web components, Angular, React and Vue. I also do a bit of backend using NodeJS, PHP & Go. I have been in web development for about 9 years now and am currently working on content to give back to the community.
 
 - 🌍  I'm based in Huntsville, AL
 - ✉️  You can contact me at [mandrewdarts@gmail.com](mailto:mandrewdarts@gmail.com)
