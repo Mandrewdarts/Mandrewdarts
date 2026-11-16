@@ -6,7 +6,7 @@ I love frameworks but I invest a lot of time in learning the web platform. I spe
 
 - 🌍  I'm based in Huntsville, AL
 - ✉️  You can contact me at [mandrewdarts@gmail.com](mailto:mandrewdarts@gmail.com)
-- 🧠  I'm learning Go, grpc, Rust and getter better at sql.
+- 🧠  I'm learning Go, grpc, Rust and gettin better at sql.
 - 🤝  I'm open to collaborating on anything web related!
 
 ### Skills
